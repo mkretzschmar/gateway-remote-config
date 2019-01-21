@@ -7,6 +7,16 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
+      },
+      { "server_address": "127.0.0.1",
+        "serv_port_up": 1680,
+        "serv_port_down": 1681,
+        "serv_enabled": true
+      },
+      { "server_address": "iot.semtech.com",
+        "serv_port_up": 1680,
+        "serv_port_down": 1680,
+        "serv_enabled": true
       }
     ],
     "ref_latitude": 50.70887566,
